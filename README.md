@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <h1>  ˚ Olá, sou a Lucas ⚡ ˚   </h1>
+    <h1>  ˚ Olá, sou Lucas ⚡ ˚   </h1>
   <p> Estudante de Análise e Desenvolvimento de Sistemas 💻</p>
 
  
