@@ -42,7 +42,7 @@
  
 
   
-  ![Snake animation](https://github.com/LucasAlmeida8/meuprojeto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasAlmeida8/README.md/blob/output/github-contribution-grid-snake.svg)
 
    
  
