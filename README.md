@@ -42,7 +42,8 @@
  
 
   
-  ![Snake animation - color_snake:blue Color of the snake](https://github.com/LucasAlmeida8/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasAlmeida8/meuprojeto/blob/output/github-contribution-grid-snake.svg)
+
    
  
 
